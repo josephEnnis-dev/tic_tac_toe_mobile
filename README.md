@@ -1,7 +1,7 @@
-This is a mobile Tic Tac Toe game developed using **Flutter** and **Dart** for the Mobile Application Programming unit.  
-It expands the classic Noughts & Crosses game with multiple AI difficulty levels, persistent score tracking, and undo functionality.
+This is a mobile Tic Tac Toe game developed using **Flutter** and **Dart**  
+It will include multiple AI difficulty levels, persistent score tracking, and undo functionality.
 
-The project was built as an individual assignment to demonstrate:
+The project is intended to demonstrate:
 - Advanced mobile app design and logic.
 - Understanding of mobile device environment features.
 - Practical mobile app programming skills.
